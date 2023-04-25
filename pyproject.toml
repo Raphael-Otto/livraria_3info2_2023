@@ -5,10 +5,10 @@ name = ""
 version = ""
 description = ""
 authors = [
-    {name = "Raphael Otto", email = "Raphaelotto.RO@gmail.com"},
+    {name = "Marco André Mendes", email = "marcoandre@gmail.com"},
 ]
 dependencies = [
-    "django>=4.1.7",
+    "django>=4.2",
     "djangorestframework>=3.14.0",
 ]
 requires-python = ">=3.10"
